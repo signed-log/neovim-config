@@ -156,3 +156,4 @@ lua/custom.lua
 
 .qwen/
 .opencode/
+node_modules/
